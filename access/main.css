@@ -328,6 +328,12 @@ i.far {
 	margin: 16px;
 	background: rgb(176, 198, 231);
 }
+.covid > div > .razdel {
+	background-color: #a2ff98;
+}
+.covid > div > div > .image {
+	border-color: #a2ff98;
+}
 
 .image {
 	background-size: cover;
