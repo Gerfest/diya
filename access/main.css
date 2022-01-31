@@ -330,7 +330,7 @@ i.far {
 }
 
 .image {
-	background-size: 100% auto;
+	background-size: cover;
 	background-color: #fff;
 	border-width: 2px;
 	border-style: solid;
